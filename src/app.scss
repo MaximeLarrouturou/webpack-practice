@@ -1,0 +1,10 @@
+$gradient:linear-gradient(to top, #4481eb 0%, #04befe 100%) no-repeat;
+$webFont: 'Helvetica';
+
+html 
+{
+    background: $gradient;
+    font-family: $webFont;
+    height: 100%;
+    padding: 25px;
+}
